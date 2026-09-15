@@ -10,12 +10,12 @@ namespace Tyuiu.DiagneB.Sprint0.Task1.V0
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Hello, world");
             string name = "Бабакар";
             int age = 26;
-            Console.WriteLine("Здравствуйте! Меня зовут "+name+". Мне "+age+" лет");
+            Console.WriteLine("Здравствуйте! Меня зовут " + name + " Мне " + age + " лет");
             Console.ReadKey();
-
         }
     }
 }

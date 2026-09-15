@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3F3327BB-B03C-48D4-BEE0-D998088ACF73}</ProjectGuid>
+    <ProjectGuid>{7F0A456F-C73D-404B-BDAF-8A17D24A7E03}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.DiagneB.Sprint0.Task1.V0</RootNamespace>
     <AssemblyName>Tyuiu.DiagneB.Sprint0.Task1.V0</AssemblyName>
