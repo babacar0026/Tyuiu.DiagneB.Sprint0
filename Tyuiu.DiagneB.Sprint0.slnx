@@ -21,8 +21,13 @@
     <Project Path="Tyuiu.DiagneB.Sprint0.Task4.V0/Tyuiu.DiagneB.Sprint0.Task4.V0.csproj" Id="c5933aae-3efd-48ca-a0aa-b194e12a8229" />
   </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.DiagneB.Sprint0.Task5.V0./Tyuiu.DiagneB.Sprint0.Task5.V0.csproj" Id="5712ce02-65e7-4dab-9996-83cd6a3cc7d3" />
     <Project Path="Tyuiu.DiagneB.Sprint0.Task5.V0.Lib/Tyuiu.DiagneB.Sprint0.Task5.V0.Lib.csproj" Id="d129e8eb-0e08-4bf1-a3d7-8d1770c2b015" />
     <Project Path="Tyuiu.DiagneB.Sprint0.Task5.V0.Test/Tyuiu.DiagneB.Sprint0.Task5.V0.Test.csproj" Id="cce43e28-ef1b-4771-a0dc-4101b5ce21c3" />
+    <Project Path="Tyuiu.DiagneB.Sprint0.Task5.V0/Tyuiu.DiagneB.Sprint0.Task5.V0.csproj" Id="5712ce02-65e7-4dab-9996-83cd6a3cc7d3" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.DiagneB.Sprint0.Task6.V0.Lib/Tyuiu.DiagneB.Sprint0.Task6.V0.Lib.csproj" Id="0cde797d-bf66-4770-b9b9-6a8a3e31a7fd" />
+    <Project Path="Tyuiu.DiagneB.Sprint0.Task6.V0.Test/Tyuiu.DiagneB.Sprint0.Task6.V0.Test.csproj" Id="bf0a70bd-f317-4b5b-a41f-0c0406c1e238" />
+    <Project Path="Tyuiu.DiagneB.Sprint0.Task6.V0/Tyuiu.DiagneB.Sprint0.Task6.V0.csproj" Id="98db51c8-abde-4b55-8101-2076f45e671b" />
   </Folder>
 </Solution>
